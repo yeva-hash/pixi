@@ -1,1 +1,3 @@
-To start application npm run start 
+To start application
+npm i 
+npm run start 
